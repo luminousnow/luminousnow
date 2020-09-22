@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Denis
 #### I am student of GoIT academy
-![I am student of GoIT academy]
 
 Soon I become a junior developer. I'm still studying but I already have my own projects and it's cool!
 
