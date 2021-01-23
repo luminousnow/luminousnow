@@ -8,7 +8,7 @@ Also I already working at my own pets projects and it's realy cool!
 ![Stats](https://github-readme-stats.vercel.app/api?username=luminousnow&show_icons=true)
 
 ✨ MY SUCCESS
-- [x] deployment, configuration of the online store on WP CMS (WP/HTML/CSS)
+- [x] deployment&configuration online store on WP CMS (WP/HTML/CSS)
 
 🔭 CURRENTLY WORK ON
 - [ ] [b2b] providing technical support on the sales website newlook-door.com (WP/PHP/HTML/CSS)
