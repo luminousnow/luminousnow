@@ -6,14 +6,9 @@ Right now studyng at GoIT academy. My learning has been going on for 11 months a
 Also I already working at my own pets projects and it's realy cool!
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=luminousnow&show_icons=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luminousnow&langs_count=3)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luminousnow&repo=final-project-group-8)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luminousnow&repo=group-6.filmoteka)
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminousnow&langs_count=5" />
-</a>
 
 ✨ MY SUCCESS
 - [x] deployment, configuration of the online store on WP CMS (WP/HTML/CSS)
