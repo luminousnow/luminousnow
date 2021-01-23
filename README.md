@@ -7,9 +7,6 @@ Also I already working at my own pets projects and it's realy cool!
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=luminousnow&show_icons=true)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luminousnow&repo=final-project-group-8)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luminousnow&repo=group-6.filmoteka)
-
 ✨ MY SUCCESS
 - [x] deployment, configuration of the online store on WP CMS (WP/HTML/CSS)
 
