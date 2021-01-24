@@ -21,16 +21,19 @@ Also I already working at my own pets projects and it's realy cool!
 </a> - <a href="https://www.newlook-door.com/">
   <img align="center">[b2b] providing technical support on the sales website newlook-door.com (WP/PHP/HTML/CSS)</img>
 </a>
+
 - [ ] <a>
   <img align="center" src="https://progress-bar.dev/30" />
 </a> - <a href="#">
   <img align="center">[b2b] consultations on CRM implementation (Bitrix24CRM, GoogleDocs, SocialNets, Ads)</img>
 </a>
+
 - [ ] <a>
   <img align="center" src="https://progress-bar.dev/10" />
 </a> - <a href="#">
   <img align="center">[b2b] pet project [territory] Fast&easy note&visualisation potential business partners (WEBPACK/REACT/GOOGLE_API/NETLIFY)</img>
 </a>
+
 - [ ] <a>
   <img align="center" src="https://progress-bar.dev/10" />
 </a> - <a href="#">
