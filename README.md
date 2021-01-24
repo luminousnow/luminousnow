@@ -60,7 +60,6 @@ Also I already working at my own pets projects and it's realy cool!
 </a> (current status: Graduation project)
 
 
-
 <hr>
 
 🙌 THAT's WHAT I ALREADY KNOW
@@ -76,6 +75,12 @@ Also I already working at my own pets projects and it's realy cool!
 - [x] Ps
 - [x] Avocod
 - [x] Figma
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=luminousnow" />
+</a><a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminousnow" />
+</a>
 
 <hr>
 
