@@ -2,7 +2,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Denis
 
-Right now studyng at GoIT academy. My learning has been going on for 11 months and soon I'll be a Front end developer. 
+Right now I'm studyng at GoIT academy. My learning has been going on for 11 months and soon I'll be a Front end developer. 
 Also I already working at my own pets projects and it's realy cool!
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=luminousnow&show_icons=true)
