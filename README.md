@@ -17,15 +17,15 @@ Also I already working at my own pets projects and it's realy cool!
 
 🔭 CURRENTLY WORK ON
 - [ ] <a>
-  <img align="center" src="https://progress-bar.dev/30" />
-</a> - <a href="https://www.newlook-door.com/">
-  <img align="center">[b2b] providing technical support on the sales website newlook-door.com (WP/PHP/HTML/CSS)</img>
+  <img align="center" src="https://progress-bar.dev/70" />
+</a> - <a href="#">
+  <img align="center">[b2b] consultations on CRM implementation (Bitrix24CRM, GoogleDocs, SocialNets, Ads)</img>
 </a>
 
 - [ ] <a>
   <img align="center" src="https://progress-bar.dev/30" />
-</a> - <a href="#">
-  <img align="center">[b2b] consultations on CRM implementation (Bitrix24CRM, GoogleDocs, SocialNets, Ads)</img>
+</a> - <a href="https://www.newlook-door.com/">
+  <img align="center">[b2b] providing technical support on the sales website newlook-door.com (WP/PHP/HTML/CSS)</img>
 </a>
 
 - [ ] <a>
