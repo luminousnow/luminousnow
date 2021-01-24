@@ -13,6 +13,12 @@ Also I already working at my own pets projects and it's realy cool!
 
 - [x] <a>
   <img align="center" src="https://progress-bar.dev/100" />
+</a> - <a href="https://svrmarket.com.ua/">
+  <img align="center">[b2c] Project management. Updating of an existing online store</img>
+</a>
+
+- [x] <a>
+  <img align="center" src="https://progress-bar.dev/100" />
 </a> - <a href="https://www.newlook-door.com/">
   <img align="center">[b2b] deploymented&configured online store on WP CMS (WP/HTML/CSS)</img>
 </a>
@@ -63,6 +69,11 @@ Also I already working at my own pets projects and it's realy cool!
 <hr>
 
 🙌 THAT's WHAT I ALREADY KNOW
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminousnow" />
+</a>
+
 - [x] Teamwork (done thry group projects)
 - [x] HTML / CSS (SASS, BEM, SVG, Flexbox, grid, bootstrap)
 - [x] JS (Promise, AJAX, Fetch, Async/Await, DOM)
@@ -76,11 +87,6 @@ Also I already working at my own pets projects and it's realy cool!
 - [x] Avocod
 - [x] Figma
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=luminousnow" />
-</a><a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminousnow" />
-</a>
 
 <hr>
 
