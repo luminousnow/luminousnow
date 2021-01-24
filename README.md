@@ -46,7 +46,7 @@ Also I already working at my own pets projects and it's realy cool!
   <img align="center" src="https://progress-bar.dev/90" />
 </a> - <a href="https://goit.ua/fullstackonline/">
   <img align="center">[personal dev] Full stack developer course (12 month)</img>
-</a> (React, Redux)
+</a> (learning now React, Redux)
 
 
 🙌 THAT's WHAT I ALREADY KNOW
