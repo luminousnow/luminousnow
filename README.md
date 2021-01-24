@@ -8,32 +8,30 @@ Also I already working at my own pets projects and it's realy cool!
 ![Stats](https://github-readme-stats.vercel.app/api?username=luminousnow&show_icons=true)
 
 ✨ MY SUCCESS
-<a>
+
+- [x] <a>
   <img align="center" src="https://progress-bar.dev/100" />
 </a> - <a href="https://www.newlook-door.com/">
   <img align="center">[b2b] deploymented&configured online store on WP CMS (WP/HTML/CSS)</img>
 </a>
 
 🔭 CURRENTLY WORK ON
-<a>
+- [ ] <a>
   <img align="center" src="https://progress-bar.dev/30" />
 </a> - <a href="https://www.newlook-door.com/">
   <img align="center">[b2b] providing technical support on the sales website newlook-door.com (WP/PHP/HTML/CSS)</img>
 </a>
-
-<a>
+- [ ] <a>
   <img align="center" src="https://progress-bar.dev/30" />
 </a> - <a href="#">
   <img align="center">[b2b] consultations on CRM implementation (Bitrix24CRM, GoogleDocs, SocialNets, Ads)</img>
 </a>
-
-<a>
+- [ ] <a>
   <img align="center" src="https://progress-bar.dev/10" />
 </a> - <a href="#">
   <img align="center">[b2b] pet project [territory] Fast&easy note&visualisation potential business partners (WEBPACK/REACT/GOOGLE_API/NETLIFY)</img>
 </a>
-
-<a>
+- [ ] <a>
   <img align="center" src="https://progress-bar.dev/10" />
 </a> - <a href="#">
   <img align="center">[b2b] pet project [dsn] Employees certification&visualisation results (WEBPACK/REACT/GOOGLE_API/NETLIFY)</img>
@@ -41,7 +39,7 @@ Also I already working at my own pets projects and it's realy cool!
 
 
 🌱 CURRENTLY LEARNING
-<a>
+- [ ] <a>
   <img align="center" src="https://progress-bar.dev/90" />
 </a> - <a href="https://goit.ua/fullstackonline/">
   <img align="center">[personal dev] Full stack developer course (12 month)</img>
