@@ -71,6 +71,8 @@ Also I already working at my own pets projects and it's realy cool!
 🙌 THAT's WHAT I ALREADY KNOW
 
 <a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=luminousnow" />
+</a><a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminousnow" />
 </a>
 
