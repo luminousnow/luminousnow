@@ -34,6 +34,6 @@ Communication 🤜🤛
 
 <hr>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luminousnow&layout=compact&custom_title=Weekly%20work%20stats)](https://github.com/anuraghazra/github-readme-stats)
+### More stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luminousnow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luminousnow&layout=compact&langs_count=6&range=last_7_days&custom_title=Weekly%20stats)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luminousnow&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
