@@ -3,7 +3,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20">
 
 🔭 I'm currently working as Web Wordpress developer<br />
-🌱 Currently continue learning: Wordpress, JS, CRM Bitrix24<br />
+🌱 I'm currently learning: Wordpress, JS, CRM Bitrix24<br />
 💬 Ask me about: Wordpress, Bitrix24, JS, Sass<br />
 
 📫 Reach me: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="github stats" height="20" />](https://www.linkedin.com/in/denis-kravchuk/) [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="github stats" height="20" />](https://www.facebook.com/denis.kravchuk.ua) [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github stats" height="20" />](https://github.com/luminousnow)
