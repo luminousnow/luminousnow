@@ -5,14 +5,17 @@
 🔭 I'm currently working as Web Wordpress developer<br />
 🌱 I'm currently learning: Wordpress, JS, CRM Bitrix24<br />
 💬 Ask me about: Wordpress, Bitrix24, JS, Sass<br />
+📫 Reach me:
 
-📫 Reach me: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="github stats" height="20" />](https://www.linkedin.com/in/denis-kravchuk/) [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="github stats" height="20" />](https://www.facebook.com/denis.kravchuk.ua) [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github stats" height="20" />](https://github.com/luminousnow)
-<br />
-<br />
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="github stats" height="20" />](https://www.linkedin.com/in/denis-kravchuk/) [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="github stats" height="20" />](https://www.facebook.com/denis.kravchuk.ua) [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github stats" height="20" />](https://github.com/luminousnow)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=luminousnow&show_icons=true&custom_title=GitHub%20stats)
+✨Tech stack:
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="github stats" height="20" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="github stats" height="20" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="github stats" height="20" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="github stats" height="20" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=whit" alt="github stats" height="20" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="github stats" height="20" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="github stats" height="20" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="github stats" height="20" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="github stats" height="20" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="github stats" height="20" /> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="github stats" height="20" />
+
+![Stats](https://github-readme-stats.vercel.app/api?username=luminousnow&show_icons=true&hide_title=true)
+
+🎨 Litlbit more about my pasion
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luminousnow&layout=compact&langs_count=6&range=last_7_days&custom_title=Weekly%20stats)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luminousnow&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
