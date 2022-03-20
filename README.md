@@ -1,5 +1,3 @@
-
-
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20">
 
 🔭 I'm currently working as Web Wordpress developer<br />
