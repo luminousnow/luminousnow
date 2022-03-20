@@ -13,7 +13,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=luminousnow&show_icons=true&hide_title=true)
 
-🎨 Litlbit more about my pasion
+🎨 Little bit more about my pasion
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luminousnow&layout=compact&langs_count=6&range=last_7_days&custom_title=Weekly%20stats)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luminousnow&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
