@@ -3,6 +3,7 @@
 🔭 Currently I'm work as Web-developer and support more then 15 websites<br />
 🌱 Continue learn and practice JS, html, scss, gulp, php, Wordpress cms<br />
 💬 Ask me about: JS, html, Sass, Wordpress<br />
+
 📫 Reach me:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="github stats" height="20" />](https://www.linkedin.com/in/denis-kravchuk/) [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="github stats" height="20" />](https://www.facebook.com/denis.kravchuk.ua)
@@ -13,14 +14,14 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=luminousnow&show_icons=true&hide_title=true)
 
-🎨 Little bit more about my pasion
+🎨 About my stats
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luminousnow&layout=compact&langs_count=6&range=last_7_days&custom_title=Weekly%20stats)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luminousnow&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-Communication 🤜🤛
+🤜🤛 Community 
 
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="github stats" height="20" /> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="github stats" height="20" /> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="github stats" height="20" /> <img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="github stats" height="20" /> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="github stats" height="20" />
+<img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="github stats" height="20" /> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="github stats" height="20" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="github stats" height="20" /> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="github stats" height="20" /> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="github stats" height="20" /> 
 
-Music 🎶
+🎶 Mood
 
-<img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" alt="github stats" height="20" /> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="github stats" height="20" />
+<img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="github stats" height="20" /> <img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" alt="github stats" height="20" />
