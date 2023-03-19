@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20">
 
-🔭 Currently I'm work as Web-developer and support more then 15 websites<br />
+🔭 Currently I'm work as Web-developer<br />
 🌱 Continue learn and practice JS, html, scss, gulp, php, Wordpress cms<br />
 💬 Ask me about: JS, html, Sass, Wordpress<br />
 
