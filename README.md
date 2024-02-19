@@ -1,10 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20">
 
-🔭 Currently I'm work as Web-developer<br />
-🌱 Continue learn and practice JS, html, scss, gulp, php, Wordpress cms<br />
-💬 Ask me about: JS, html, Sass, Wordpress<br />
+🔭 I'm WordPress developer<br />
+🌱 Keep learning and practice html, css, JS, php, WordPress etc.<br />
+💬 Text me about: JS, html, GULP, Wordpress etc.<br />
 
-More about my stats
+About my doing
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=luminousnow&show_icons=true&hide_title=true)
 
